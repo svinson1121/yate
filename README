@@ -1,5 +1,6 @@
 		YATE - Yet Another Telephony Engine
 		-----------------------------------
+[added SS7 MGCP bearer bridging](docs/mgcp-ss7-bearer-bridging.md)
 
   The YATE project aims to be a fully featured software PBX.
 
